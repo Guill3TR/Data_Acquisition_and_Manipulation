@@ -1,2 +1,2 @@
 # Data_Acquisition_and_Manipulation
-Advanced techniques using leading tools such as SQL for efficient data mining 🔍 , Python for data manipulation and transformation, as well as optimized strategies in database environments and cloud services 📊 , with a particular focus on AWS ☁️.
+Advanced techniques using Python for data acquisition and manipulation🔍 . Acquire data through databases such as SQL, through APIs, as well as web scraping techniques📊.
